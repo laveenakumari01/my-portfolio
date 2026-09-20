@@ -3,7 +3,7 @@
 A modern, interactive personal portfolio website built with Next.js, Tailwind CSS, and Framer Motion.
 
 ## 🔗 Live Demo
-[View Portfolio](https://my-portfolio.vercel.app)
+[View Portfolio](https://my-portfolio-chi-lake-29.vercel.app)
 
 ## 👩‍💻 About
 Portfolio of Laveena Kumari — AI Engineering student at SZABIST Karachi (2024–2028) specializing in LLMs, Agentic AI, and Multi-Agent Systems.
