@@ -90,7 +90,7 @@ export const PORTFOLIO_DATA = {
       id: "nftcipher",
       role: "AI Engineer Intern",
       company: "NFTCipher (Karachi / Remote)",
-      period: "Sep 2024 – Present",
+      period: "April 2026 – July 2026",
       location: "Karachi / Remote",
       badge: "Featured Role",
       description:
